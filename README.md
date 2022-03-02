@@ -7,12 +7,10 @@ ele é um ambiente para aprender a programar, voltado para iniciantes na program
 
 #
 
- <div align="center">
-   (Essa imagem abaixo foi retirada de um exercicio desse repositório, coloquei ela para mostar um pouco da interface do Portugol)<p>
-</div></h4>
+Imagem retirada de um exercicio desse repositório, coloquei ela para mostar um pouco da interface do Portugol:<p>
 <img src= "https://user-images.githubusercontent.com/92352134/156433545-bf304a4e-69a4-4fdb-a7c7-5ae3ce3daa4d.png" width="1000px">
 
-  #
+#
   
   <h4> Se tiver alguma dúvida ou precisar de ajuda, clique em algum dos ícones abaixo para entrar em contato comigo:</p> </4>
       <a href = "https://www.instagram.com/igorluan95"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
