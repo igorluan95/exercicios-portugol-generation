@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Nesse repositório estão alguns exerícios de Portugol que resolvi durante o Bootcamp da Generation Brasil em Janeiro de 2022 </2>
+   <h2>Nesse repositório estão alguns exercícios de Portugol que resolvi durante o Bootcamp da Generation Brasil em Janeiro de 2022 </2>
 </div>
  
 <p><h4>A vida do programador é resolver, por meio de códigos, problemas do dia a dia e o primeiro passo é aprender a pensar como programador. O Portugol é um grande aliado no inicio dessa jornada,
