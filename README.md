@@ -12,7 +12,7 @@ ele é um ambiente para aprender a programar, voltado para iniciantes na program
 <img src= "https://user-images.githubusercontent.com/92352134/156433545-bf304a4e-69a4-4fdb-a7c7-5ae3ce3daa4d.png" width="1000px">
 
 #
-<h4> Se tiver alguma dúvida ou precisar de ajuda, clique em algum dos ícones abaixo para entrar em contato comigo:</p> </4>
+<h4> Se tiver alguma dúvida, precisar de ajuda ou tiver alguma sugestão clique em algum dos ícones abaixo para entrar em contato comigo:</p> </4>
       <a href = "https://www.instagram.com/igorluan95"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto:igorluansouzasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/igorluan95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
